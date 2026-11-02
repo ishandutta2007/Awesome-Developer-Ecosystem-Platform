@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Developer-Ecosystem-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Ecosystem-Platform?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Developer-Ecosystem-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Ecosystem-Platform?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-Ecosystem-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Developer-Ecosystem-Platform?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-Ecosystem-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Developer-Ecosystem-Platform?style=flat-square&color=orange" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-Ecosystem-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -61,7 +61,7 @@ A comprehensive benchmark of commercial category leaders, sorted in descending o
 
 ## 💻 Open-Source GitHub Projects
 
-Explore battle-tested open-source software powering the modern developer stack—ranging from developer portals and Git forges to container registries, workflow engines, and AI hubs. **Sorted in descending order by GitHub star count**:
+Explore battle-tested open-source software powering the modern developer stack—ranging from developer portals and Git forges to container registries, workflow engines, and AI hubs. **Sorted in descending order by GitHub Stars_Count**:
 
 - [![Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers) **[Supabase](https://github.com/supabase/supabase)** ⚡  
   **Open source Firebase alternative & developer backend platform** (Apache-2.0) — Complete developer backend providing dedicated PostgreSQL databases, authentication, edge functions, realtime subscriptions, and storage APIs.  
@@ -167,7 +167,7 @@ Contributions are welcome! Please follow these simple steps:
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-tool`).
-3. 📝 **Add/edit entries** in `README.md` adhering to the table schema and format (name, repo link, star badge, 1–2 sentence description, license, tech stack).
+3. 📝 **Add/edit entries** in `README.md` adhering to the table schema and format (name, repo link, Stars_Badge, 1–2 sentence description, license, tech stack).
 4. 🚀 **Commit & push** (`git commit -m "feat: add NewTool to ecosystem list"`).
 5. 📬 **Submit a Pull Request** with a concise description of why the tool fits the Developer Ecosystem category.
 
